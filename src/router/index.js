@@ -11,6 +11,8 @@ import SpeakerEdit from '@/components/Speakers/EditSpeaker'
 import SpeakerShow from '@/components/Speakers/ShowSpeaker'
 import SpeakerCreate from '@/components/Speakers/CreateSpeaker'
 
+
+
 Vue.use(Router)
 
 export default new Router({
